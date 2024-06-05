@@ -1,0 +1,21 @@
+Marca,Modelo,Año,Motor,Transmisión,Color,Precio ($),Kilometraje (km),Combustible
+Toyota,Corolla,2020,1.8L I4,Automática,Blanco,20000,10000,Gasolina
+Honda,Civic,2021,2.0L I4,Manual,Negro,22000,5000,Gasolina
+Ford,Mustang,2019,5.0L V8,Automática,Rojo,35000,15000,Gasolina
+Chevrolet,Camaro,2020,6.2L V8,Manual,Azul,40000,20000,Gasolina
+Nissan,Altima,2021,2.5L I4,Automática,Gris,24000,8000,Gasolina
+BMW,3 Series,2018,2.0L I4,Automática,Negro,41000,12000,Gasolina
+Mercedes,C-Class,2021,2.0L I4,Automática,Blanco,43000,7000,Gasolina
+Volkswagen,Golf,2020,1.4L I4,Manual,Gris,23000,13000,Gasolina
+Audi,A4,2019,2.0L I4,Automática,Blanco,39000,9000,Gasolina
+Hyundai,Elantra,2021,2.0L I4,Automática,Azul,21000,4000,Gasolina
+Kia,Soul,2020,1.6L I4,Automática,Rojo,20000,3000,Gasolina
+Mazda,CX-5,2021,2.5L I4,Automática,Negro,25000,6000,Gasolina
+Subaru,Outback,2019,2.5L H4,Automática,Gris,27000,10000,Gasolina
+Dodge,Charger,2020,3.6L V6,Automática,Azul,30000,11000,Gasolina
+Jeep,Wrangler,2021,3.6L V6,Manual,Blanco,32000,5000,Gasolina
+Tesla,Model S,2021,Electric,Automática,Rojo,80000,8000,Eléctrico
+Volvo,XC60,2019,2.0L I4,Automática,Negro,45000,9000,Gasolina
+Jaguar,XF,2020,2.0L I4,Automática,Gris,50000,20000,Gasolina
+Land Rover,Range Rover,2021,3.0L I6,Automática,Blanco,90000,7000,Gasolina
+Porsche,911,2021,3.0L H6,Automática,Negro,120000,3000,Gasolina
